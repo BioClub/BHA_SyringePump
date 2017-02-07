@@ -13,7 +13,7 @@ You will also need:
 |1|1|NEMA17 Stepper motor|[RepRapWorld](http://reprapworld.com/?products_details&products_id=94&cPath=1614)|12.50|
 |2|1|Pololu Stepper Driver|[RepRapWorld](http://reprapworld.com/?products_details&products_id=356)|11.99
 |3|1|8mm smooth rod|[RepRapWorld](http://reprapworld.com/?products_details&products_id=342&cPath=1655)|2.99|
-|4|2|LM8UU Linear Bearings|[RepRapWorld](http://reprapworld.com/?products_details&products_id=151&cPath=1655)|1.99|
+|4|2|LM8UU リニアブッシュ|[Monotaro](https://www.monotaro.com/p/0360/7923/?t.q=LM8UU)|1.99|
 |5|1|Axis coupling|[RepRapWorld](http://reprapworld.com/?products_details&products_id=417&cPath=1655)|1.99|
 |6|1|M5 threaded rod|[RepRapWorld](http://reprapworld.com/?products_details&products_id=394&cPath=1595_1638)|2.15|
 |7|3|Hexagonal M5 nut|[RepRapWorld](http://reprapworld.com/?products_details&products_id/850/cPath/1595_1597_1636_1712)|0.09|
